@@ -1,4 +1,5 @@
 [
   { "animal" : "squirrel" },
+  { "animal" : "snake" },
   { "animal" : "bat" }
 ]
